@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "기말팀프로젝트_빼앗긴산타마을에도겨울이올까요", "기말팀프로젝트_빼앗긴산타마을에도겨울이올까요.vcxproj", "{D5481EAD-F74D-49C1-A6D3-B23EF000599B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "빼앗긴산타마을_installer", "..\빼앗긴산타마을_installer\빼앗긴산타마을_installer.vdproj", "{58FB0EEB-8D42-483B-A479-0F509BE3EAA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Debug|x64.ActiveCfg = Debug|x64
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Debug|x64.Build.0 = Debug|x64
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Debug|x86.Build.0 = Debug|Win32
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Release|x64.ActiveCfg = Release|x64
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Release|x64.Build.0 = Release|x64
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Release|x86.ActiveCfg = Release|Win32
+		{D5481EAD-F74D-49C1-A6D3-B23EF000599B}.Release|x86.Build.0 = Release|Win32
+		{58FB0EEB-8D42-483B-A479-0F509BE3EAA3}.Debug|x64.ActiveCfg = Debug
+		{58FB0EEB-8D42-483B-A479-0F509BE3EAA3}.Debug|x86.ActiveCfg = Debug
+		{58FB0EEB-8D42-483B-A479-0F509BE3EAA3}.Release|x64.ActiveCfg = Release
+		{58FB0EEB-8D42-483B-A479-0F509BE3EAA3}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BC3BA1-559E-4573-920F-1F322EC3EA1A}
+	EndGlobalSection
+EndGlobal
