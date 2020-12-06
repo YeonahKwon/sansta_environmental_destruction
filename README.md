@@ -1,10 +1,9 @@
 # 빼앗긴 산타마을에도 눈이 올까요🎅
-![마을4](https://user-images.githubusercontent.com/66368593/101283663-32a8d880-381f-11eb-9cfb-194414ddf398.jpg)
 
 ## 게임설명 영상링크
 [Youtube 링크] https://youtu.be/NWneCDmc0MM
 
-![산타방2](https://user-images.githubusercontent.com/66368593/101283664-36d4f600-381f-11eb-9d3d-7101f9137f19.jpg)
+![마을4](https://user-images.githubusercontent.com/66368593/101283663-32a8d880-381f-11eb-9cfb-194414ddf398.jpg)
 
 ## 게임방법
 크리스마스 캐롤을 들으며 게임을 즐겨보세요.
@@ -39,5 +38,7 @@
 ## 출발 _ 메리크리스마스!
 모든 조건을 충족하면 Merry Christmas!
 
-
 >즐거운 징글벨 bgm과 함께하세요
+
+
+![산타방2](https://user-images.githubusercontent.com/66368593/101283664-36d4f600-381f-11eb-9d3d-7101f9137f19.jpg)
