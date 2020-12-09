@@ -43,7 +43,7 @@
 
 ## 루돌프의 전기썰매충전 _ 썰매 센터
 
-![image](https://user-images.githubusercontent.com/66368593/101638380-56fbf380-3a71-11eb-8c9d-ad7e23f4f30b.png)
+![image](https://user-images.githubusercontent.com/66368593/101639332-80694f00-3a72-11eb-91bc-4092a904282c.png)
 
 루돌프는 이제 썰매를 끌지 않습니다.
 
