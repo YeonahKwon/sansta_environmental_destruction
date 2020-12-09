@@ -3,13 +3,14 @@
 ## 게임설명 영상링크 (시청부탁드립니다)
 [Youtube 링크] https://youtu.be/NWneCDmc0MM
 
-![image](https://user-images.githubusercontent.com/66368593/101638452-6e3ae100-3a71-11eb-9844-88d0bfde848b.png)
+![image](https://user-images.githubusercontent.com/66368593/101639121-413afe00-3a72-11eb-8ab3-660cbfa05a8a.png)
 
 ## 게임방법
 
+즐거운 크리스마스 캐롤을 들으며 게임을 즐겨보세요.
+
 ![image](https://user-images.githubusercontent.com/66368593/101638103-fff61e80-3a70-11eb-8b76-d21387daf283.png)
 
-즐거운 크리스마스 캐롤을 들으며 게임을 즐겨보세요.
 
 2020년, 여러 환경 문제로 인해 산타 마을에 눈이 내리지 않게 되었습니다. 
 
